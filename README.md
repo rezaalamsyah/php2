@@ -31,3 +31,11 @@ latihan 5
 ![alt text](https://github.com/rezaalamsyah/php2/blob/master/Latihan4/Screenshot%20(265).png)
 ![alt text](https://github.com/rezaalamsyah/php2/blob/master/Latihan4/Screenshot%20(266).png)
 ![alt text](https://github.com/rezaalamsyah/php2/blob/master/Latihan4/Screenshot%20(267).png)
+
+ M             O                D              U             L          T          U         G          A          S
+
+https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(268).png
+https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(269).png
+https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(270).png
+https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(271).png
+https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(272).png
