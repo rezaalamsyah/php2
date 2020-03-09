@@ -34,8 +34,9 @@ latihan 5
 
  M             O                D              U             L          T          U         G          A          S
 
-https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(268).png
-https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(269).png
-https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(270).png
-https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(271).png
-https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(272).png
+![alt text](https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(268).png)
+![alt text](https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(269).png)
+![alt text](https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(270).png)
+![alt text](https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(271).png)
+![alt text](https://github.com/rezaalamsyah/php2/blob/master/tugas/Screenshot%20(272).png)
+
